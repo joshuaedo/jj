@@ -1,0 +1,9 @@
+1. Go to https://github.com/joshuaedo.
+2. Click on repositories.
+3. Click on New.
+4. Name the repository, add a description but not a Readme.
+5. Click on Create repository.
+6. Copy the link to the repository.
+7. Scroll down till you see this "…or push an existing repository from the command line".
+8. Launch Hyper.
+9. 
