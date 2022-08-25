@@ -1,0 +1,21 @@
+1. Launch Hyper.
+
+** If you don't  already have the local version of the repository** 
+a. Copy the link to the repository.
+b. cd *to your preference*
+c. git clone *paste link* 
+
+**After you've made modifications to your local repository**
+
+2. git status
+3. git add .
+4. git status
+5. git commit -m *commit message in quotes*
+6. git log
+7. git status
+8. git pull
+9. git status
+10. git push -u origin master
+11. git status
+
+**N/B: git pull = git fetch + git merge**
