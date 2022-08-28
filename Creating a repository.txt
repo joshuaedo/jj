@@ -9,7 +9,7 @@
 
 **Input the following assuming your project folder is on your desktop.**
 
-9. cd Desktop/
+9. cd Desktop/*your folder's name enclosed in quotes*
 10. git status
 11. git init
 12. git status
@@ -17,7 +17,7 @@
 14. git commit -m "Initial commit"
 15. git log
 16. git status
-17. git git remote add origin *paste link copied in line 6*
+17. git remote add origin *paste link copied in line 6*
 18. git push -u origin master.
 
 **Congrats! You just pushed your work to Github**
