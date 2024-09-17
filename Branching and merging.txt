@@ -1,0 +1,26 @@
+1. Launch Hyper.
+2. git branch *new branch name*
+3. git branch
+4. git checkout *new branch name*
+
+**After you've made modifications to your local repository**
+
+2. git status
+3. git add .
+4. git status
+5. git commit -m *commit message in quotes*
+6. git log
+7. git status
+8. git pull
+9. git status
+10. git push -u origin master
+11. git status
+
+**If you want to merge back the two branches**
+
+12. git checkout master
+13. git merge *your new branch name*
+14. :q! 
+15. git status
+16. git log
+17. push -u origin master
